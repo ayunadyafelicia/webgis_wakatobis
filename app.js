@@ -1,3 +1,4 @@
+
 // =====================================================
 // WEBGIS KABUPATEN WAKATOBI
 // =====================================================
@@ -758,7 +759,7 @@ async function mulaiPeta() {
     ],
 
     [
-      "bataswilayahkelurahandesa.geojson",
+      "bataskelurahandesa.geojsons",
       layerDesa
     ],
 
